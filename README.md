@@ -1,3 +1,3 @@
 # SniperOJ-beta
 
-> 项目已迁移至 : https://github.com/SniperOJ/Platform
+> Project has been migrated to : https://github.com/SniperOJ/Platform
